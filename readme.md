@@ -35,7 +35,7 @@ Hello, my name is Ginny, ahihi.
 </div>
 <br><br><br>
 
-## 🛠 Languages and Tools ## :cherry_blossom:
+## 🛠 Languages and Tools :cherry_blossom:
 📖 I have been learning and exploring these following tools and languages
 <br><br><br>
 <div align="center"> 
