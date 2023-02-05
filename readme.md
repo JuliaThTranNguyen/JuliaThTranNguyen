@@ -63,7 +63,7 @@ Hello, my name is Ginny, ahihi.
     <code><a href="https://www.mongodb.com/" title="mongodb" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a></code>
     <code><a href="https://www.jetbrains.com/" title="jetbrains" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/></a></code>
     <code><a href="https://aws.amazon.com/" title="Aws" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/></a></code>
-    <code><a href="https://code.visualstudio.com/" title="vscode" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/visualstudio-plain-wordmark.svg" alt="vscode" width="40" height="40"/></a></code>
+    <code><a href="https://code.visualstudio.com/" title="vscode" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a></code>
     <code><a href="https://dotnet.microsoft.com/en-us/" title=".net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40"/></a></code>
 
 </div>
