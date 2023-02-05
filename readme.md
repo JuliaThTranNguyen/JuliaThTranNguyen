@@ -5,7 +5,7 @@ Hello, my name is Ginny, ahihi.
 # Hi there! Welcome to my GitHub Profile! ✨
 
 ## :cherry_blossom: My name is Julia, an aspiring tech geek.:cherry_blossom:
-
+<br><br>
 <div align="center">
     <img width="90%" src="./img/path.jpg">
 </div>
