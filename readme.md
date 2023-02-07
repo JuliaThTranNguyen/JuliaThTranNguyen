@@ -16,7 +16,7 @@ Hello, my name is Ginny, ahihi.
 <br><br>
 📖 I first learned to code at the beginning of __2019__ while continuing my personal development. I love discovering new aspects of technology :fire: That's also the main reason why I chose to become a Software Developer :heart_eyes:
 <br><br>
-📖 Not until __2020__ did I ACTUALLY start learning programming and coding in a way that worked out well for me :satisfied: I've finally know how to code correctly and learn about debugging and testing :confused:
+📖 Not until __2021__ did I ACTUALLY start learning programming and coding in a way that worked out well for me :satisfied: I've finally know how to code correctly and learn about debugging and testing :confused:
 <br><br>
 📖 On September __2022__ , I was luckily enough to find my 1st internship :pray:. Over the next few months I received practical training and development taking the first step in my career as a Full Stack Developer :cupid:
 <br><br>
