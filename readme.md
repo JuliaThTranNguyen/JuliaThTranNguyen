@@ -1,8 +1,8 @@
 <!--
-Hello, my name is Ginny, ahihi.
+Hello, my name is Julia, ahihi.
 -->
 
-# Hi there! Welcome to my GitHub Profile! ✨
+# Hi there! Welcome to my GitHub Profile! ✨ [Would you like to take a tour to visit my Portfolio website ?](https://th-julia-portfolio.vercel.app/)
 
 ## :cherry_blossom: My name is Julia, an aspiring tech geek.:cherry_blossom:
 <br><br>
